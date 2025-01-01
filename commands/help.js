@@ -21,11 +21,11 @@ module.exports = {
       .setDescription(
         "Hello, I'm" +
           message.client.user.tag +
-          ", Playing Rich with So High Quality Songs from YouTube, SoudCloud, Spotify\nMade with ❤️ by [Masih#0258](https://discord.com/users/901765485341859911)\n\n__**🎧Here Is All My Music Command That You Can Use:**__\n\n🔁`+loop`\n⤴️`+move`\n⏺`+np`\n⏸`+pause`\n▶️`+play`\n🎶`+playlist`\n📄`+queue`\n❌`+remove`\n🔼`+resume`\n🔍`+search`\n⭐`+shuffle`\n⏩`+skip`\n⬆️`+skipto`\n⏹`+stop`\n🔊`+volume`\n\n[Support Server](https://discord.gg/ttmZpw7fyj), [GitHub](https://github.com/MasihJs), [Instagram](https://instagram.com/masih_b_dark), [Twitter](https://twitter.com/masih_b_dark), [Twitch](https://twitch.tv/agents__xd)"
+          ", Playing Rich with So High Quality Songs from YouTube, SoudCloud, Spotify\nMade with 🤍 by [CalledMasih](https://discord.com/users/901765485341859911)\n\n__**🎧Here Is All My Music Command That You Can Use:**__\n\n🔁`+loop`\n⤴️`+move`\n⏺`+np`\n⏸`+pause`\n▶️`+play`\n🎶`+playlist`\n📄`+queue`\n❌`+remove`\n🔼`+resume`\n🔍`+search`\n⭐`+shuffle`\n⏩`+skip`\n⬆️`+skipto`\n⏹`+stop`\n🔊`+volume`\n\n[Support Server](https://discord.gg/JzxSc55fXQ), [GitHub](https://github.com/calledmasih), [Instagram](https://instagram.com/calledmasih), [Twitter](https://twitter.com/calledmasih), [Twitch](https://twitch.tv/calledmasih)"
       )
       .setColor(`32ff81`)
       .setFooter(
-        `Requested by ${message.author.username} | Made by: Masih#0258`,
+        `Requested by ${message.author.username}`,
         `${message.author.displayAvatarURL()}`
       );
 
