@@ -1,5 +1,5 @@
 # Discord-Music-Bot
-A Professional & Exclusive Discord Music Bot which Playing High Quality and Rich Songs from YouTube, SoundCloud and Spotify API.
+A Professional & Exclusive Discord Music Bot which Playing High Quality and Rich Songs from the YouTube, SoundCloud and Spotify API.
 
 Made with 🤍 by CalledMasih
 
