@@ -1,6 +1,6 @@
 /**
- * GitHub: https://github.com/masihdeveloper | Don't forget to ⭐
- * Website: https://masihdev.ir
+ * GitHub: https://github.com/calledmasih | Don't forget to ⭐
+ * Website: https://calledmasih.ir/
  * Module Imports:
  */
 const { Client, Collection } = require("discord.js");
